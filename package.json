@@ -10,24 +10,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css-loader": "^3.5.3",
-    "fe-base": "0.0.15",
-    "file-loader": "^6.0.0",
-    "less-loader": "^6.1.0",
-    "postcss-cssnext": "^3.1.0",
-    "postcss-import": "^12.0.1",
-    "postcss-loader": "^3.0.0",
-    "sy-bridge": "0.0.42",
-    "sy-comutils": "^1.0.4",
-    "url-loader": "^4.1.0",
+    "css-loader": "^4.2.1",
+    "element-ui": "^2.13.2",
+    "less-loader": "^6.2.0",
+    "qs": "^6.9.4",
     "vue": "^2.6.11",
-    "vue-loader": "^15.9.0"
+    "vue-loader": "^15.9.0",
+    "vue-router": "^3.4.2",
+    "vue-style-loader": "^4.1.2",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "babel-loader": "^8.1.0",
-    "postcss-pxtorem": "^5.1.1",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
